@@ -1,0 +1,1 @@
+Implemented NB, CART, XGB, SVM, LR, and RF Algorithms in Python using sklearn to predict daily stock price direction. Trained and tested models by walk-forward analysis using 10 years of US S&P 500 index historical data. Added fixed and variable trading costs to evaluate variation in performance with trading costs.
